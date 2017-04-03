@@ -1,0 +1,26 @@
+*{
+  font-family: sans-serif;
+  text-align: center;
+}
+header{
+	background:red;
+}
+body{
+	background:#F7DA55;
+}
+div{
+	background:blue;
+  position: relative;
+	height: 300px;
+}
+#sign-up{
+	background:#eee;
+	position: absolute;
+  left: 25%;
+  top: 5%;
+	width: 50%;
+  height: 90%;
+}
+footer{
+	background: white;
+}
